@@ -33,6 +33,9 @@ Matplotlib
 Seaborn
 
 ## Review
+
 **Memory-based models** are based on similarity between items or users, where we use cosine-similarity.
+
 **Model-based CF** is based on matrix factorization where we use SVD to factorize the matrix.
+
 Building recommender systems that perform well in cold-start scenarios (where little data is available on new users and items) remains a challenge. The standard collaborative filtering method performs poorly is such settings. 
