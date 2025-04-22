@@ -1,8 +1,8 @@
-# Advanced-Recommender-Systems
-## Overview
+# 📌Advanced-Recommender-Systems
+## 🔍Overview
 This project explores advanced recommender systems using Python. It covers different recommendation techniques, including collaborative filtering, content-based filtering, and hybrid approaches.
 
-## Features
+## 🎯Features
 
 Collaborative Filtering: User-based and item-based filtering techniques.
 
@@ -12,11 +12,11 @@ Hybrid Approaches: Combining multiple recommendation strategies for better resul
 
 Evaluation Metrics: Measuring the performance of recommendation models.
 
-## Data
+## 📊 Data
 We will use famous MovieLens dataset, which is one of the most common datasets used when implementing and testing recommender engines. It contains 100k movie ratings from 943 users and a selection of 1682 movies.
 
 
-## Technologies Used
+## 🛠️Technologies Used
 
 Python
 
