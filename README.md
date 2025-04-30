@@ -40,6 +40,7 @@ Seaborn
 
 Building recommender systems that perform well in cold-start scenarios (where little data is available on new users and items) remains a challenge. The standard collaborative filtering method performs poorly is such settings. 
 
-### 📧 Email: Parthsharma2300@gmail.com
-### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
+#### Author: Parth Sharma
+#### 📧 Email: Parthsharma2300@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
 ⭐ If you found this helpful, consider giving it a star!
